@@ -1,4 +1,4 @@
-# calc43_43 (feature-parentheses 开发中)
+# calc43_43 (主分支稳定版，已合并 feature-parentheses)
 
 一个简洁、安全的 Python 命令行四则运算计算器，支持加减乘除、括号与浮点数，带完整的单元测试。
 
